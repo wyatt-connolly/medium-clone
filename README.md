@@ -1,6 +1,6 @@
-# Medium
+# Medium Clone
 
-> Blog site made with Next.js
+> Blog site made with Next.js and Sanity
 
 # :crystal_ball: Visual Demo
 
