@@ -5,7 +5,13 @@
 # :crystal_ball: Visual Demo
 
 > **Homepage**
+> ![aryoMiJ](https://user-images.githubusercontent.com/88942814/169425214-b4f0aa01-8f51-4aae-a86b-c145bdac4388.png)
 
+> **Post**
+> ![XBt5VD6](https://user-images.githubusercontent.com/88942814/169425220-33adcc97-391c-43c8-a164-6f279057b180.png)
+
+> **Comment**
+> ![lDwUrxf](https://user-images.githubusercontent.com/88942814/169425224-0507ace6-8497-48cd-b5a2-47816cac89be.png)
 
 # 📌 Table of Contents
 
@@ -24,11 +30,17 @@
 This project was made using the follow technologies:
 
 - [Next.js](https://nextjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
 - [Sanity](https://www.sanity.io/)
 - [Vercel](https://vercel.com/)
 - [Tailwind](https://tailwindcss.com/)
 
 # :rocket: Features
--
+- Typescript functionality
+- Incremental Static Regeneration (ISR)
+- Comment on blog posts
 
 # :pencil: Lessons
+
+After hearing all the hype about typescript, I decided to hop on the train and learn it while building a blog site. While there is an initial setup creating types and interfaces, not seeing bugs on console and knowing your code works makes up for it. I see this being very useful in the future when installing npm modules that have typescript functionality. This way, I spend less time looking up related modules/values and suggestions are easier. 
+I've built my ecommerce site with Sanity, so I am familiar with the technology. I addedd ISR to getStaticProps in the [slug].tsx file to update the page without rebuilding the whole site.
