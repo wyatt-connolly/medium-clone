@@ -50,9 +50,9 @@ This will start both server and client in dev mode. The app is now available on 
 
 # :pencil: Lessons
 
-After hearing all the hype about typescript, I decided to hop on the train and learn it while building a blog site. While there is an initial setup creating types and interfaces, not seeing bugs on console and knowing your code works makes up for it. I see this being very useful in the future when installing npm modules that have typescript functionality. This way, I spend less time looking up related modules/values and suggestions are easier. 
+After hearing all the hype about typescript, I decided to hop on the train and learn it while building a blog site. While there is an initial setup creating types and interfaces, not seeing bugs on the console and knowing your code works makes up for it. I see this being very useful in the future when installing npm modules that have typescript functionality. This way, I spend less time looking up related modules/values and suggestions are easier.
 
-I've built my ecommerce site with Sanity, so I am familiar with the technology. ISR is included in the [slug].tsx file to update the page without rebuilding the whole site.
+I've built my eCommerce site with Sanity, so I am familiar with the technology. ISR is included in the [slug].tsx file to update the page without rebuilding the whole site.
 
 # :link: License
 
