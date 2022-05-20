@@ -40,13 +40,7 @@ This project was made using the follow technologies:
 - Incremental Static Regeneration (ISR)
 - Comment on blog posts
 
-# :pencil: Lessons
-
-After hearing all the hype about typescript, I decided to hop on the train and learn it while building a blog site. While there is an initial setup creating types and interfaces, not seeing bugs on console and knowing your code works makes up for it. I see this being very useful in the future when installing npm modules that have typescript functionality. This way, I spend less time looking up related modules/values and suggestions are easier. 
-
-I've built my ecommerce site with Sanity, so I am familiar with the technology. ISR is included in the [slug].tsx file to update the page without rebuilding the whole site.
-
-# Local Development
+# :house: Local Development
 
 After intalling all dependencies (npm i) run this command:
 
@@ -54,6 +48,12 @@ After intalling all dependencies (npm i) run this command:
 
 This will start both server and client in dev mode. The app is now available on localhost:3000.
 
-# License
+# :pencil: Lessons
+
+After hearing all the hype about typescript, I decided to hop on the train and learn it while building a blog site. While there is an initial setup creating types and interfaces, not seeing bugs on console and knowing your code works makes up for it. I see this being very useful in the future when installing npm modules that have typescript functionality. This way, I spend less time looking up related modules/values and suggestions are easier. 
+
+I've built my ecommerce site with Sanity, so I am familiar with the technology. ISR is included in the [slug].tsx file to update the page without rebuilding the whole site.
+
+# :link: License
 
 Design and assets belong to [medium.com](https://www.medium.com)
